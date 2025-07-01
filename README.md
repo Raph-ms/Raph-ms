@@ -43,9 +43,9 @@
 
 ### 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/raphaelmartins01)
 [![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=flat&logo=google-chrome&logoColor=white)](https://seuportfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:raphaelmartinsdasilva222@hotmail.com)
 ## 🏆 Projetos em destaque
 
 - 🔗 [Projeto API REST]
