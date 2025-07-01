@@ -46,6 +46,16 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
 [![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=flat&logo=google-chrome&logoColor=white)](https://seuportfolio.com)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+## 🏆 Projetos em destaque
+
+- 🔗 [Projeto API REST](https://github.com/RaulRenshaw/CountryCRUD) — CRUD completo com Spring Boot
+- 🔗 [Projeto RPG](https://github.com/RaulRenshaw/RPG) — Mini jogo RPG
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RaulRenshaw&color=800080&label=Perfil%20Visualizado&style=for-the-badge" alt="Visualizações do meu perfil"/>
+</p>
 
 ---
 
