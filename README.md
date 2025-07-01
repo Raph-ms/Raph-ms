@@ -48,8 +48,8 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 ## 🏆 Projetos em destaque
 
-- 🔗 [Projeto API REST](https://github.com/RaulRenshaw/CountryCRUD) — CRUD completo com Spring Boot
-- 🔗 [Projeto RPG](https://github.com/RaulRenshaw/RPG) — Mini jogo RPG
+- 🔗 [Projeto API REST]
+- 🔗 
 
 ---
 
