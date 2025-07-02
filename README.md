@@ -46,7 +46,7 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:raphaelmartinsdasilva222@hotmail.com)
 ## 🏆 Projetos em destaque
 
-- 🔗 [Projeto API REST]
+- 🔗 [Projeto Auditoria Interna]
 - 🔗 
 
 ---
