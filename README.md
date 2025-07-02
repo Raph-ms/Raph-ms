@@ -3,20 +3,19 @@
 <h1 align="center">Olá! 👋 Seja bem-vindo(a) ao meu perfil no GitHub!</h1>
 
 <p align="center">
-  💻 Desenvolvedor(a) apaixonado(a) por tecnologia <br>
+  💻 Analista de segurança da informação <br>
   🚀 Em constante aprendizado e evolução <br>
-  🌎 Localização: [Sua cidade/país aqui] <br>
+  🌎 Localização: São Paulo/SP <br>
 </p>
 
 ---
 
 ### ✨ Sobre mim
 
-- 🎓 Formação: [Seu curso ou área de estudo aqui]
-- 🔭 Atualmente trabalhando/em estudo em: [Seu foco atual]
-- 🌱 Aprendendo: [Tecnologias ou conceitos que está estudando]
-- 💬 Me pergunte sobre: [Áreas ou temas que domina bem]
-- ⚡ Curiosidade: [Algo divertido sobre você]
+- 🎓 Formação: Analise e desenvolvimento de sistemas
+- 🔭 Atualmente trabalhando/em estudo em: Tecnico em Infraestrutura
+- 🌱 Aprendendo: Segurança da Informação
+- 💬 Me pergunte sobre: Redes, Sql, Wireshark, Nist, Nmap
 
 ---
 
