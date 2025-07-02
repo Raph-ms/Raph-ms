@@ -21,13 +21,13 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 
-![Linux](https://img.shields.io/badge/-Linux-1572B6?style=flat&logo=css3)
-![Nmap](https://img.shields.io/badge/-Nmap-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-61DAFB?style=flat&logo=react&logoColor=black)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Nmap](https://img.shields.io/badge/-Nmap-005573?style=flat&logo=gnometerminal&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-<!-- Adicione ou remova badges conforme sua stack -->
+
 
 ---
 
