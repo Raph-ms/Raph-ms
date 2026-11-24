@@ -13,9 +13,9 @@
 ### ✨ Sobre mim
 
 - 🎓 Formação: Analise e desenvolvimento de sistemas
-- 🔭 Atualmente trabalhando/em estudo em: Tecnico em Infraestrutura
+- 🔭 Atualmente trabalhando/em estudo em: Analista de Segurança da Informação Pleno
 - 🌱 Aprendendo: Segurança da Informação
-- 💬 Me pergunte sobre: Redes, Sql, Wireshark, Nist, Nmap
+- 💬 Me pergunte sobre: Redes, Firewall, Fortinet, Cisco, Nmap, Linux
 
 ---
 
